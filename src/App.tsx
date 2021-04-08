@@ -8,11 +8,6 @@ import { Footer } from './Components/Footer';
 function App() {
   return (
     <div>
-      <div className="Container">
-        <h1>Menu</h1>
-        <Header />
-        <Header/>
-      </div>
       <Footer />
     </div>
   );
