@@ -1,0 +1,32 @@
+Header{
+    background-color: #f2f3f5;
+    position: absolute;
+    width: 1280px;
+    height: 100%;
+}
+div{
+    color:black;
+
+}
+.projects{
+    margin: 41px 0px 0px 91px;
+    color:#006699;
+    font-size: 36px;
+}
+.box{
+    width: 300px;
+    height: 200px;
+    background-color: grey;
+    margin: 66px 0px 0px 110px;
+}
+.box_1{
+    margin-top: 79px;
+}
+
+.Content{
+    display: flex;
+    margin-left: 110px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    border-bottom: 1.5px solid #6d6d6d;
+}
